@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MultipleTarget copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>MultipleTarget.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>397757721EA3220B00383084</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>397757851EA3222400383084</key>
 		<dict>
 			<key>primary</key>
 			<true/>
